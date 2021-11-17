@@ -26,8 +26,8 @@ keda_v2_enabled = false
 
 resource_tags = {
   environment = "Self Managed OSDU"
-  contact = "<your_name>"
-  repo = "https://github.dev/danielscholl/self-managed-osdu"
+  contact = "Aqib Ahmed"
+  repo = "https://github.com/aqib-ahmedj/self-managed-osdu/"
 }
 
 # Network Addressing
